@@ -44,6 +44,7 @@
 
     <releases>
         <release version="20.06.3" date="2020-06-02"/>
+        <release version="20.06.5" date="2020-06-07"/>
     </releases>
 
     <content_rating type="oars-1.1" />
