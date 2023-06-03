@@ -1,7 +1,7 @@
 {
     "app-id": "dev.paullee.scraterpreter.Scrapec",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "21.08",
+    "runtime-version": "23.08",
     "sdk": "org.freedesktop.Sdk",
     "command": "scrapec",
     "finish-args": [
@@ -18,7 +18,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/scraterpreter/scrapec.git",
-                    "tag": "20.09.0"
+                    "tag": "20.09.0",
+                    "commit": "e2ffcd545ab6aff22f7f067803db940dcf77c9dd"
                 },
                 {
                     "type": "file",
